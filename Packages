@@ -1,15 +1,15 @@
-Package: GUNS OF BOOM.ate
+Package: <GUNS OF BOOM.ate>
 Name: GUNS OF BOOM AUTO ADS
-Version: 1.0.0 
+Version: <1.0.0>
 Architecture: iphoneos-arm
-Description: auto plays guns of boom ads and claims reward, to work with iosgods free ad hack.
-Maintainer: https://autoplayios.co.uk
-Author: https://autoplayios.co.uk
-section: Games
-Depends: needs AutoTouch to run
-Filename: debs/GUNS OF BOOM.ate
-Size: 27070
-MD5sum:BB3910C059D97E0E1F5E7215AD3205C7
-SHA1:7071D41BD9C648FE458761698D4DCAC1D6D4CF06
-SHA256:84361F61947CD3B3A0549BF5F7FAF207A19B673A6A9F2D6A969E5575406AB368
+Description: <auto plays guns of boom ads and claims reward, to work with iosgods free ad hack>
+Maintainer: Chipshop82 <https://autoplayios.co.uk>
+Author: Chipshop82 <https://autoplayios.co.uk>
+section: <Main>
+Depends: <needs AutoTouch to run>
+Filename: debs//<GUNS OF BOOM.ate>
+Size: <27070>
+MD5sum:<BB3910C059D97E0E1F5E7215AD3205C7>
+SHA1:<7071D41BD9C648FE458761698D4DCAC1D6D4CF06>
+SHA256:<84361F61947CD3B3A0549BF5F7FAF207A19B673A6A9F2D6A969E5575406AB368>
  
