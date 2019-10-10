@@ -1,0 +1,7 @@
+Origin:ios-AutoPlay
+Label: ios-AutoPlay
+Suite: Stable
+Version: 1.0.0
+Codename: ios 
+Architecture: iphoneos-arm
+main Description: auto playscripts
