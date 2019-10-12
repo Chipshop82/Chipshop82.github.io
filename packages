@@ -1,4 +1,4 @@
-Package: com.chipshop82.gob_1.0.0
+Package: com.chipshop82.gob_1.0.0.deb
 Name: Guns of Boom AutoTouch Script
 Version: 1.0.0 
 Architecture: iphoneos-arm
@@ -9,7 +9,7 @@ section: Scripts
 Depends: needs AutoTouch to run
 Filename: com.chipshop82.gob_1.0.0
 Size: 42116 
-MD5sum:D3F5C5C948399C53A4B24870F99CBB56
-SHA1:983E95EB5637B40E954778DBD9A54F79F57630D1
-SHA256:3E02DBCA2114739DA57A0DA765EF5BFB6639EE80EE44A069B39BE74796B8F343
+MD5sum:d3f5c5c948399c53a4b24870f99cbb56
+SHA1:983e95eb5637b40e954778dbd9a54f79f57630d1
+SHA256:3e02dbca2114739da57a0da765ef5BFF 6639ee80ee44a069b39be74796b8f343
  
